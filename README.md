@@ -1,5 +1,5 @@
 # Hi there
-I am Gentian Buqaj and am learning coding at 42 Lausanne.
+I am Gentian Buqaj and I am learning coding at 42 Lausanne.
 
 - [linkedin.com/in/gentian-buqaj/](https://www.linkedin.com/in/gentian-buqaj/)
 - Discord: bubu_94
@@ -83,5 +83,8 @@ Finally, C is often described as the “Latin” of programming languages. As th
 I’m driven by pragmatic curiosity, exploring systems to understand how they work while staying focused on delivery. I value performance and efficiency, but never at the expense of clarity or timelines. I thrive on autonomy, enjoy troubleshooting, and see bugs as opportunities to learn. Calm under pressure, I adapt to complex challenges and turn obstacles into insights.
 
 
-## My use of AI
+## My approach of AI
+Using AI to write code can make production faster and easier, but it doesn’t replace the experience of writing code yourself. When I rely on AI, I often understand the resulting code, but I haven’t truly learned it—because practice is the most important part of learning. In this sense, overusing AI can create a form of “knowledge debt” or opportunity cost.  
+When learning a new language, I avoid using AI to generate my own code. I only use it to clarify complex concepts. Writing code myself takes more time, but I see it as an investment in deeper understanding. Once I’ve mastered the tools and concepts, using AI to produce code becomes less risky, because I can review and understand what it generates.  
+For me, AI is a personal choice for each developer. I currently prioritize deep learning and hands-on coding, but in contexts where speed is essential or when I am not an expert, I am open to using AI to accelerate production — as I did here to help me write this profile, since English is not my first language.
 
