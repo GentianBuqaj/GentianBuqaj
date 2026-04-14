@@ -1,5 +1,5 @@
 # Hi there
-I am Gentian Buqaj and I am learning coding at 42 Lausanne.
+I am Gentian Buqaj, and I am learning to code at 42 Lausanne. I have completed the Common Core, and I plan to pursue RNCP6 certification in web and mobile development and/or RNCP7 certification in web, databases, and AI.
 
 - [linkedin.com/in/gentian-buqaj/](https://www.linkedin.com/in/gentian-buqaj/)
 - Discord: bubu_94
@@ -17,7 +17,7 @@ I am Gentian Buqaj and I am learning coding at 42 Lausanne.
 <br>
 
 # Current project: ft_hangouts (42 school project)
-This project aims to introduce to Android application development. The task involves creating a mobile contact management application in Java for Google’s Android platform. The goal is to understand how an Android app functions, how the system manages the application, and how to utilize the SDK.  
+This project is an introduction to Android application development. The task involves creating a mobile contact management application in Java for Google’s Android platform. The goal is to understand how an Android app works, how the system manages it, and how to use the SDK.  
 
 Requirements: CRUD for contacts (SQLite); SMS sending/receiving with history; dual language support; 42 logo icon; header color menu; background timestamp Toast; portrait/landscape support. No external libraries allowed; human evaluation; Android Studio recommended.
 
@@ -31,7 +31,7 @@ The 42 Network is a globally ranked, tuition-free computer science program with 
 
 ### ft_transcendence - full stack web application
 *Collaborators: @Ldelahay, @sidneybaumann.*
-* **Description:** Developed a multiplayer game inspired by curvefever, with a REST API for game session and data management, secure user account creation and authentication, and application monitoring with usage statistics.
+* **Description:** Developed a multiplayer game inspired by Curve Fever, with a REST API for game session and data management, secure user account creation and authentication, and application monitoring with usage statistics.
 * **Key Tech:** TypeScript, Fastify, PostgreSQL, Prisma, Zod, Argon2, JWT, Docker, Prometheus, Grafana, React, HTML5 Canvas.
 
 <p>
@@ -112,6 +112,6 @@ Before transitioning into software development, I worked as a delivery driver, o
 - Organized with a focus on execution and efficiency
 
 This list is a bit generic. More specifically:
-- During a task, I always wanted to complete it with as little effort and time as possible.
+- When working on a task, I always try to complete it with as little time and effort as possible.
 - When dealing with an angry client, the best way to handle the situation is to remain silent and listen.
 - I developed a dislike for repetitive and non-stimulating tasks, which is why I am so excited about coding and automation.
