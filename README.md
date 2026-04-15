@@ -29,7 +29,7 @@ The 42 Network is a globally ranked, tuition-free computer science program with 
 
 ## 42 Projects
 
-### ft_transcendence - full stack web application
+### [ft_transcendence](https://github.com/Ldelahay/Ft_transcendence) - full stack web application
 *Collaborators: @Ldelahay, @sidneybaumann.*
 * **Description:** Developed a multiplayer game inspired by Curve Fever, with a REST API for game session and data management, secure user account creation and authentication, and application monitoring with usage statistics.
 * **Key Tech:** TypeScript, Fastify, PostgreSQL, Prisma, Zod, Argon2, JWT, Docker, Prometheus, Grafana, React, HTML5 Canvas.
