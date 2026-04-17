@@ -16,10 +16,7 @@ I am Gentian Buqaj, and I am learning to code at 42 Lausanne. I have completed t
 
 <br>
 
-# Current project: ft_hangouts (42 school project)
-This project is an introduction to Android application development. The task involves creating a mobile contact management application in Java for Google’s Android platform. The goal is to understand how an Android app works, how the system manages it, and how to use the SDK.  
-
-Requirements: CRUD for contacts (SQLite); SMS sending/receiving with history; dual language support; 42 logo icon; header color menu; background timestamp Toast; portrait/landscape support. No external libraries allowed; human evaluation; Android Studio recommended.
+# Current project: Learn basics of Java
 
 <br>
 
