@@ -1,5 +1,5 @@
 # Hi there
-I am Gentian Buqaj, and I am learning to code at 42 Lausanne. I have completed the Common Core, and I plan to pursue RNCP6 certification in web and mobile development and/or RNCP7 certification in web, databases, and AI.
+I am Gentian Buqaj, and I am learning IT at 42 Lausanne. I have completed the Common Core, and I plan to pursue [RNCP7](https://www.francecompetences.fr/recherche/rncp/39774/) professional certification in Data and AI.
 
 - [linkedin.com/in/gentian-buqaj/](https://www.linkedin.com/in/gentian-buqaj/)
 - Discord: bubu_94
@@ -16,7 +16,7 @@ I am Gentian Buqaj, and I am learning to code at 42 Lausanne. I have completed t
 
 <br>
 
-# Current project: Learn basics of Java
+# Current project: Learn basics of Python
 
 <br>
 
