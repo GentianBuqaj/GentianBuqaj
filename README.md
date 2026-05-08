@@ -16,7 +16,8 @@ I am Gentian Buqaj, and I am learning IT at 42 Lausanne. I have completed the Co
 
 <br>
 
-# Current project: Learn basics of Python
+## Currently learning linear algebra with project 'matrix'
+[matrix.subject.pdf](matrix.subject.pdf)
 
 <br>
 
