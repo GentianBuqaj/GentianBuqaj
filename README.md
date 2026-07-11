@@ -1,5 +1,5 @@
 # Hi there
-I am Gentian Buqaj, and I am learning IT at 42 Lausanne. I have completed the Common Core, and I plan to pursue [RNCP7](https://www.francecompetences.fr/recherche/rncp/39774/) professional certification in Data and AI.
+I am Gentian Buqaj, and I am learning IT at 42 Lausanne. I have completed the Common Core, and I plan to pursue [RNCP6](https://www.francecompetences.fr/recherche/rncp/39783) professional certification (equivalent to a Bachelor's degree in IT) to solidify my expertise in software architecture and development.
 
 - [linkedin.com/in/gentian-buqaj/](https://www.linkedin.com/in/gentian-buqaj/)
 - Discord: bubu_94
@@ -9,17 +9,10 @@ I am Gentian Buqaj, and I am learning IT at 42 Lausanne. I have completed the Co
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white)
 
-<br>
-
-## Currently learning linear algebra with project 'matrix'
-[matrix.subject.pdf](matrix.subject.pdf)
-
-<br>
 
 # 42 school
 https://42lausanne.ch/  
